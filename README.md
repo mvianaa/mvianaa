@@ -5,10 +5,10 @@
 - 💻 Constantemente explorando tecnologias
 - 🔥 Para alcançar os objetivos, o segredo é a constância
 
-<div>
+<div style="margin-bottom:100px">
   <a href="https://github.com/mvianaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvianaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvianaa&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mvianaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvianaa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
