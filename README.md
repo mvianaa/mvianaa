@@ -5,11 +5,11 @@
 - 💻 Constantemente explorando tecnologias
 - 🔥 Para alcançar os objetivos, o segredo é a constância
 
-<div style="margin-bottom:100px">
-  <a href="https://github.com/mvianaa">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mvianaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvianaa&layout=compact&langs_count=16&theme=dark"/>
-</div>
+ <div align="center" class="cards">
+   <a href="https://github.com/mvianaa">
+   <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api?username=mvianaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvianaa&layout=compact&langs_count=7&theme=radical"/>
+ </div>
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
