@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="left">Olá👋 Eu sou o Mateus Viana!!</h1>
 
-<!--
-**mvianaa/mvianaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Sobre mim:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🎓 Estudante de Engenharia de Software na Estácio  <br>💻 Estudando para me tornar Desenvolvedor Back-End  <br>🚀 Focado em Java, Spring Boot e SQL  <br>🎯 Buscando minha primeira oportunidade na área de tecnologia</p>
+
+###
+
+<h2 align="center">Tecnologias que uso:</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvianaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+</div>
+
+###
+
+<h2 align="center">Conecte-se comigo</h2>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/mateusvianabatista" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mviana.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mvianaa/mvianaa/output/snake.svg" alt="Snake animation" />
+
+###
