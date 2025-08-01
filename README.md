@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Tecnologias que uso:</h2>
+<h2 align="left">Tecnologias que uso:</h2>
 
 ###
 
@@ -32,11 +32,11 @@
 
 ###
 
-<h2 align="center">Conecte-se comigo</h2>
+<h2 align="left">Conecte-se comigo</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/mateusvianabatista" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
